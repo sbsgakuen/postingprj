@@ -1,0 +1,12 @@
+.card {
+	margin-bottom: 30px;
+}
+
+.welcome {
+	padding: 3rem 0;
+	margin-bottom: 2rem;
+	background-color: #eee;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
